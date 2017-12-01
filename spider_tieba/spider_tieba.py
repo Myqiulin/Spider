@@ -1,4 +1,5 @@
 # coding=utf-8
+__author = "Johnny"
 
 # 对url进行编码
 import urllib
