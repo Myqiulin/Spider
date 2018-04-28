@@ -1,0 +1,10 @@
+scrapy
+scrapy-redis
+kafka-python
+feedparser
+jieba
+BeautifulSoup4
+selenium
+elasticsearch
+snownlp
+nltk
